@@ -1,0 +1,64 @@
+:root {
+  /* Brand Colors */
+  --color-navy: #071D49;
+  --color-deep-blue: #0B3D91;
+  --color-tech-blue: #1769FF;
+  --color-electric-blue: #3585FF;
+  --color-cyan: #28D8FF;
+  --color-ice-blue: #EAF5FF;
+  --color-soft-blue: #F4F9FF;
+  --color-white: #FFFFFF;
+  --color-slate: #425572;
+  --color-slate-light: #64748B;
+  --color-slate-dark: #1E293B;
+
+  /* Gradients */
+  --gradient-primary: linear-gradient(135deg, #071D49 0%, #0B3D91 50%, #1769FF 100%);
+  --gradient-tech: linear-gradient(135deg, #1769FF 0%, #3585FF 50%, #28D8FF 100%);
+  --gradient-ice: linear-gradient(180deg, #FFFFFF 0%, #F4F9FF 60%, #EAF5FF 100%);
+  --gradient-card: linear-gradient(145deg, rgba(255, 255, 255, 0.95) 0%, rgba(244, 249, 255, 0.8) 100%);
+  --gradient-accent: linear-gradient(90deg, #1769FF 0%, #28D8FF 100%);
+  --gradient-dark: linear-gradient(140deg, #071D49 0%, #0B3D91 100%);
+
+  /* Backgrounds & Surfaces */
+  --bg-primary: #FFFFFF;
+  --bg-secondary: #F4F9FF;
+  --bg-tertiary: #EAF5FF;
+  --surface-white: #FFFFFF;
+  --surface-glass: rgba(255, 255, 255, 0.82);
+  --surface-glass-dark: rgba(7, 29, 73, 0.88);
+  --surface-glass-border: rgba(23, 105, 255, 0.14);
+  --surface-glass-border-glow: rgba(40, 216, 255, 0.45);
+
+  /* Shadows */
+  --shadow-xs: 0 1px 3px rgba(7, 29, 73, 0.05);
+  --shadow-sm: 0 4px 12px rgba(7, 29, 73, 0.06);
+  --shadow-md: 0 8px 24px rgba(7, 29, 73, 0.08);
+  --shadow-lg: 0 16px 40px rgba(7, 29, 73, 0.1);
+  --shadow-xl: 0 24px 60px rgba(7, 29, 73, 0.14);
+  --shadow-glow: 0 0 30px rgba(23, 105, 255, 0.28);
+  --shadow-cyan-glow: 0 0 35px rgba(40, 216, 255, 0.35);
+
+  /* Typography */
+  --font-display: 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'Space Grotesk', monospace;
+
+  /* Border Radii */
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 16px;
+  --radius-lg: 22px;
+  --radius-xl: 30px;
+  --radius-full: 9999px;
+
+  /* Transitions */
+  --transition-fast: 180ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 280ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-smooth: 450ms cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* Spacing / Layout */
+  --container-max-width: 1240px;
+  --header-height: 76px;
+  --announcement-height: 38px;
+}
