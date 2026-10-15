@@ -232,7 +232,7 @@ export default function Home({ onOpenEnquiry }) {
                 }}
               >
                 <img
-                  src="/assets/3D_illustration.png"
+                  src={`${import.meta.env.BASE_URL}assets/3D_illustration.png`}
                   alt="Ashvon Technologies 3D Emblem"
                   style={{
                     width: '100%',

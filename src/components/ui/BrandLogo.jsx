@@ -30,7 +30,7 @@ export default function BrandLogo({
 
   return (
     <img
-      src="/assets/3D_illustration.png"
+      src={`${import.meta.env.BASE_URL}assets/3D_illustration.png`}
       alt={alt}
       className={`ashvon-logo ashvon-logo--${variant} ${className}`.trim()}
       style={{
