@@ -18,7 +18,7 @@ This homepage implementation is submitted for team review and design selection.
 | Project | Ashvon Technologies Website |
 | Task ID | ASH-ED |
 | Developer | Mary Kamala |
-| Project Type | Frontend Web Development |
+| Project Type | Web Development |
 | Framework | React.js |
 | Build Tool | Vite |
 | Styling | CSS |
@@ -135,7 +135,7 @@ The overall website development follows the Ashvon Technologies 10-day PI plan.
 
 ## Collaboration
 
-This project is part of a collaborative frontend development initiative involving four team members.
+This project is part of a collaborative web development initiative involving four team members.
 
 - **Tarun:** Homepage integration, navigation, and cloud deployment
 - **Mary Kamala:** EdTech page and service organization
@@ -158,7 +158,7 @@ These optional enhancements will not delay the core website launch.
 
 **Mary Kamala**
 
-Frontend Development — Ashvon Technologies
+website Development — Ashvon Technologies
 
 **GitHub:** [Marykamalaperli](https://github.com/Marykamalaperli)
 
